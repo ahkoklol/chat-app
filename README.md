@@ -1,2 +1,2 @@
 # chat-app
-Chat app using web sockets
+Chat app using web sockets (socket.io)
